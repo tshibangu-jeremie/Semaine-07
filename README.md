@@ -1,6 +1,6 @@
 # Semaine 7
 
-Hey là! Vous êtes prêt à partir en vacances??? Tutuutut avant cela, voici un bon gros projet: la réalisation de ton Portfolio.
+Hey là! Vous êtes prêt à partir en vacances??? Tutuutut avant cela, voici un bon gros projet: la réalisation de votre Portfolio.
 
 ## PROJET: Site web perso / CV / Portfolio
 
