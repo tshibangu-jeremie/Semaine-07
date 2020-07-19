@@ -27,6 +27,8 @@ Hey là! Vous êtes prêt à partir en vacances??? Tutuutut avant cela, voici un
 - [Trouver des couleurs 2](https://coolors.co/)
 - [Photos libre de droits](https://unsplash.com/)
 - [Des exemples de portfolio](https://dribbble.com/search/portfolio)
+- [Créer des animations CSS](https://animista.net/)
+- [Quelques outils CSS](https://keyframes.app/)
 
 ### Plugin Figma
 
