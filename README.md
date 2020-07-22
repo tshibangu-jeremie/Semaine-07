@@ -4,6 +4,16 @@ Hey là! Vous êtes prêt à partir en vacances??? Tutuutut avant cela, voici un
 
 ## PROJET: Site web perso / CV / Portfolio
 
+### Date limite
+
+Le projet doit être finis pour le **samedi 15 août 23h59**. 
+
+Une présentation de votre projet aura lieu le **lundi 17 août en classe**. 
+
+#### Présentation
+
+Il s'agit de nous présenter votre univers. Montrez-nous votre maquette Figma, expliquez vos choix de couleurs et de mise en page. Ensuite montrez votre site fonctionnel. Vous avez **10 minutes maximum**.
+
 ### Procédure
 
 - Commencez par créer une maquette sur un brouillon. Découpez votre site en pages et composants et cherchez la mise en page que vous souhaitez afficher sur votre site. Réfléchissez déjà si vous aurez besoin d'une Grid et/ou de Flexbox. 
